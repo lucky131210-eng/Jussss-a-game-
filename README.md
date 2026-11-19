@@ -10,10 +10,10 @@ Play directly in your browser ,no installation required.
 
 #  Built With
 
- Godot Engine — Game development
- GDScript — Game logic and scripting
- Git & GitHub — Version control and project hosting
- GitHub Pages — Web deployment
+ Godot Engine - Game development
+ GDScript - Game logic and scripting
+ Git & GitHub - Version control and project hosting
+ GitHub Pages - Web deployment
 
 # Deployment
 
