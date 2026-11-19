@@ -1,14 +1,40 @@
-# Jusssss-a-game-
-A game made with no AI use and It's my first ever game 😭😭 took a lot of time to understand the concepts and learn it ,but it was fun making and trying something new as a teenager i'm proud that I worked on a skill rather than juss wasting my time 
-# About the game 
-It is a 2D high graphic dark themed game 😘 consist of 2 players One is our hero and other one is a ghost , not a horror game!,This might not work on low end device Cause it's very heavy I'll porvide System requirements below 
-Other than this it's a multiplayer game controlled from same keyboard and mouse (cause I'm not exprienced enough to make multiplayer for different devies 😁👍)
-KeyMapping 
-For player 1 Use "A" and "D" to move and right mouse button to punch 
-For player 2 Use left and right arrow keys for movement and left mouse button to punch 
-# System requirements 
-A beast PC with 100MB space (I guess)
-Ram:10gb and above 👌
-processor:i9 14th gen Hx or above 😁
-# Disclaimer!!!!!
-It can have glitches Cause it's my first game 
+# Jussss a game
+
+A small game development project built with **Godot Engine**. This project is part of my journey into game development, programming, and learning how to turn ideas into playable experiences.
+
+# Play the Game
+
+**[▶ Play Jussss-a-game](https://lucky131210-eng.github.io/Jussss-a-game-/new-game-project/)**
+
+Play directly in your browser ,no installation required.
+
+#  Built With
+
+ Godot Engine — Game development
+ GDScript — Game logic and scripting
+ Git & GitHub — Version control and project hosting
+ GitHub Pages — Web deployment
+
+# Deployment
+
+The game is exported for the web and hosted using GitHub Pages.
+
+# What I Learned
+
+While working on this project, I explored:
+
+ Building a game using Godot.
+ Working with scenes, scripts, and game logic.
+ Debugging and fixing programming errors.
+ Exporting a Godot project for web browsers.
+ Using GitHub to manage and publish a project.
+ Deploying a playable game using GitHub Pages.
+
+ # Developer
+
+**Lucky**
+
+Aspiring software developer and game development enthusiast.
+
+ GitHub: [@lucky131210-eng](https://github.com/lucky131210-eng)
+ Project Repository: [Jussss-a-game-](https://github.com/lucky131210-eng/Jussss-a-game-)
